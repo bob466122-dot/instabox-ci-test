@@ -1,0 +1,8 @@
+name: ci-test
+on: [push]
+jobs:
+  test:
+    runs-on: instabox-medium
+    steps:
+      - uses: actions/checkout@v4
+      - run: echo hello-from-instabox && uname -a && nproc && free -m | head -2
