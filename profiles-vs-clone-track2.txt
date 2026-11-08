@@ -1,0 +1,9 @@
+Voice profiles - VS-clone-track2 (bob466122-dot/instabox-ci-test)
+亚里士多德 (aristotle) ff9ddb2b - pre-existing
+玄夜 7dc3b92d
+岚 (lan) 7bf1ea5f - pre-existing
+琉璃 120ba18e
+江蘅 4db85189b
+陈星野 8f39a10a
+绯凰 e1ca6aee
+Verification: verify-aristotle.wav, WAV pcm_s16le 24000 Hz mono, duration 4.409083 s, 211714 bytes, HTTP 200, render 3m13.95s
